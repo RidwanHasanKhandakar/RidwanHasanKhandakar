@@ -1,3 +1,4 @@
+theme=tokyonight
 # Rahin
 
 I am a Computer Science student at Independent University, Bangladesh with an interest in software development, backend systems, game development, and problem solving.
