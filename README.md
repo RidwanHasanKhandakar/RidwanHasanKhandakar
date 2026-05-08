@@ -1,4 +1,3 @@
-theme=tokyonight
 # Rahin
 
 I am a Computer Science student at Independent University, Bangladesh with an interest in software development, backend systems, game development, and problem solving.
@@ -29,13 +28,5 @@ Focused on building interactive and educational CS systems.
 - Transitioning desktop-based projects into web applications
 - Improving system design and project architecture in Python & JavaScript
 
-## GitHub Stats Dashboard
-
-### Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RidwanHasanKhandakar&show_icons=true&theme=default&hide_border=true)
-
-### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=RidwanHasanKhandakar&theme=default&hide_border=true)
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanHasanKhandakar&layout=compact&hide_border=true)
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=RidwanHasanKhandakar&hide_border=true)
