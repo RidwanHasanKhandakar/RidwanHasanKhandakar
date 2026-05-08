@@ -2,8 +2,6 @@
 
 I am a Computer Science student at Independent University, Bangladesh with an interest in software development, backend systems, game development, and problem solving.
 
-Currently, I am exploring web technologies, multiplayer systems, and real-world software architecture through personal and academic projects.
-
 ## Skills & Technologies
 
 **Languages:**   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
