@@ -6,39 +6,35 @@ Currently, I am exploring web technologies, multiplayer systems, and real-world 
 
 ## Skills & Technologies
 
-Programming Languages:
-- Python
-- C
-- C++
-- JavaScript
-- HTML
-- CSS
+**Languages:**   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-Core CS Knowledge:
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Computer Architecture (Microprocessor-level understanding)
-- Automata Theory
-
-Development & Tools:
-- Algorithm visualization and simulation
-- Basic game development logic (Pygame)
-- Web-based UI development
-- Git & GitHub version control
-- Problem-solving and competitive programming fundamentals
-
+**Core CS:** Data Structures & Algorithms, OOP, DBMS, Automata Theory, Microprocessor  
+**Tools & Concepts:** Git/GitHub, Algorithm Visualization, System Design Basics, Web UI Development, Problem Solving
 
 ## Current Interests
 
-My current focus is on building interactive and educational software systems that help visualize and simplify core computer science concepts.
+Focused on building interactive and educational CS systems.
 
-I am particularly interested in:
-- Algorithm visualization systems (sorting, searching, graph traversal)
-- Educational tools for Data Structures & Algorithms
-- Backend logic design for interactive applications
-- Game-like simulations for learning programming concepts
-- System-level thinking through projects like banking systems and factory management simulations
-- Exploring how web technologies can replace desktop-based visualizers
+- Algorithm visualization (sorting, searching, graph algorithms)
+- Educational tools for DSA and programming concepts
+- Backend logic for interactive applications
+- Game-like simulations for learning systems
+- Transitioning desktop-based projects into web applications
+- Improving system design and project architecture in Python & JavaScript
 
-I am also actively improving my ability to design scalable project structures, especially in Python and JavaScript-based applications, while transitioning more of my work toward web-based environments.
+## GitHub Stats Dashboard
+
+### Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RidwanHasanKhandakar&show_icons=true&theme=default&hide_border=true)
+
+### Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=RidwanHasanKhandakar&theme=default&hide_border=true)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanHasanKhandakar&layout=compact&hide_border=true)
