@@ -28,3 +28,5 @@ Focused on building interactive and educational CS systems.
 
 ### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=RidwanHasanKhandakar&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RidwanHasanKhandakar&layout=compact&theme=tokyonight)
