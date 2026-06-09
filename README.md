@@ -13,7 +13,6 @@ I am a Computer Science student at Independent University, Bangladesh with an in
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Core CS:** Data Structures & Algorithms, OOP, DBMS, Automata Theory, Microprocessor  
-**Tools & Concepts:** Git/GitHub, Algorithm Visualization, System Design Basics, Web UI Development, Problem Solving
 
 ## Current Interests
 
